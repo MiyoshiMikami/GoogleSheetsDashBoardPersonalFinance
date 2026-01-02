@@ -1,2 +1,7 @@
 # GoogleSheetsDashBoardPersonalFinance
-Un DashBoard que permite insertar datos a una tabla y ver un resumen de los movimientos a travez de 3 tipos de movimientos, Ingresos y Egresos (Credito y Debito))
+
+## OBSERVACIONES 
+Este proyecto surge de mi necesidad personal de administrar egresos e ingresos en cuentas personales, el proyecto estara siendo actualizado y recibira constantes mejorar ademas de solución de problemas (Issues). 
+
+Las constantes actualizaciones se realizaran directamente desde Google Sheets, sin embargo se subira el respectivo archivo JSON para que atestigue y respalde el contenido de este. 
+
